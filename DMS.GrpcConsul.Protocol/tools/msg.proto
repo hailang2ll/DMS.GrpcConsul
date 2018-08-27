@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+
+package DMS.GrpcConsul.Protocol;
+
+service MsgService{
+  rpc GetSum(GetMsgNumRequest) returns (GetMsgSumReply){}
+}
+
+message GetMsgNumRequest {
+  int32 Num1 = 1;
+  int32 Num2 = 2;
+}
+
+message GetMsgSumReply {
+  int32 Sum = 1;
+}

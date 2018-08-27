@@ -1,0 +1,1 @@
+consul agent -server -datacenter=grpc-consul -bootstrap -data-dir ./data -ui -node=grpc-consul1 -bind 127.0.0.1 -client=0.0.0.0

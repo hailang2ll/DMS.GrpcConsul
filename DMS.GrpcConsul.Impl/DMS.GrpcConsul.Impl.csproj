@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.Core" Version="1.13.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DMS.GrpcConsul.Protocol\DMS.GrpcConsul.Protocol.csproj" />
+  </ItemGroup>
+
+</Project>
