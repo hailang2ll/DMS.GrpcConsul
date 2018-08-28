@@ -7,7 +7,7 @@ qq交流群：18362376
 
 ## 一.博客地址实例
 .netcore consul实现服务注册与发现-单节点部署 
-博客地址：https://blog.csdn.net/hailang2ll/article/details/82020027
+https://blog.csdn.net/hailang2ll/article/details/82020027
 	
 .netcore consul实现服务注册与发现-集群完整版
 https://blog.csdn.net/hailang2ll/article/details/82079192
