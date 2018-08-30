@@ -12,3 +12,5 @@ https://blog.csdn.net/hailang2ll/article/details/82020027
 .netcore consul实现服务注册与发现-集群完整版
 https://blog.csdn.net/hailang2ll/article/details/82079192
 
+交流qq群：18362376
+
